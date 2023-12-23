@@ -12,7 +12,7 @@
 	<artifactId>base-ci-cd</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>base-ci-cd</name>
-	<description>mise en place d&apos;un premier pipeline avec gitHub</description>
+	<description>mise en place du pipeline avec gitHub</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
